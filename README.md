@@ -6,7 +6,7 @@ UUID sizin kimliğinizi belirler ve sizinle ilgili şeyleri 1 günlüğüne akl�
 
 Not: Bu proje yapay zekayı doğrudan kendi bilgisayarınız üzerinden çalıştırmaz!
 
-Not: AI Hizmeti 'AceBot' tarafından sunulup çeşitli kütüphaneler türkçeye çevirilip ile sizlere sunulmaktadır.
+Not: AI Hizmeti 'AceBot' tarafından sunulup çeşitli kütüphaneler türkçeye çevirilip ile sizlere sunulmaktadır
 ```
 
 <p>
